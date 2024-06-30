@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\year2024\\metacrafter\\swarnaliProject\\blockchain\\contracts\\AttendanceTracker.sol": {
+      "lastModificationDate": 1719595269730,
+      "contentHash": "653c1b2593fe22f8fd7d290c7679147a",
+      "sourceName": "contracts/AttendanceTracker.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.18"
+      ],
+      "artifacts": [
+        "AttendanceTracker"
+      ]
+    }
+  }
+}
